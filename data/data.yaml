@@ -1,0 +1,6 @@
+train: ../dataset/train/images
+val: ../dataset/valid/images
+
+# Classes
+nc: 4  # number of classes
+names: ['D40','D20','D10','D00']  # class names
